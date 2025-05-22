@@ -20,7 +20,11 @@
 }
 
 body {
-  background-color: #fff8dc;
+  background-color: rgba(173, 171, 171, 0.281);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  
+}
+button:active{
+  background-color: "#FCC900";
 }
